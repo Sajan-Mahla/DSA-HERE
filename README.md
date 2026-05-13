@@ -29,13 +29,7 @@ This repository contains my journey of learning Data Structures and Algorithms u
 
 ---
 
-## 📌 Problems Solved
 
-| Day | Problem | Approach |
-|-----|--------|---------|
-| Day 1 | Two Sum, Remove Duplicates | Two Pointer |
-
----
 
 ## 🔥 Learning Strategy
 
